@@ -58,4 +58,6 @@ Most Common Words
 Emoji Analysis
 ![10](https://github.com/khyati-o4/Whatsapp-Chat-Analyzer/assets/77969213/c156a4cc-3ba6-499e-a09b-054df6345372)
 
+(the app can be tried and tested for different whatsapp text files exported without media in 24-hour format from whatsapp)
+
 
